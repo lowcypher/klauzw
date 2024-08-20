@@ -41,8 +41,15 @@ Nesta página só existe o campo de senha, uma vez que só existe um usuário no
 
 Se autentique no sistema e já poderá cadastrar os serviços que exijam senha de acesso.
 
+Obs: depende da biblioteca mPDF. 
+Use no diretório raiz do projeto: composer require mpdf/mpdf
+
 Sistema: KlauzW
+
 Data: 2024-08-18
+
 Versão: 0.7.5
+
 Autor: Mario Medeiros - Disaster Developer
+
 Site: https://www.mariomedeiros.eti.br
